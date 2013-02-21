@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cayasso/mongoose-allocate.git"
+    "url": "git://github.com/kof/socket.io-mongo.git"
   },
   "main": "./lib/passport-dd",
   "dependencies": {
