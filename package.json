@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kof/socket.io-mongo.git"
+    "url": "git://github.com/cayasso/passport-dd.git"
   },
   "main": "./lib/passport-dd",
   "dependencies": {
