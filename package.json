@@ -1,0 +1,21 @@
+{
+  "name": "passport-dd",
+  "version": "0.1.0",
+  "description": "Default Dynamics authentication strategy for Passport.",
+  "author": {
+    "name": "Jonathan Brumley",
+    "email": "cayasso@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cayasso/mongoose-allocate.git"
+  },
+  "main": "./lib/passport-dd",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "0.1.x"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
